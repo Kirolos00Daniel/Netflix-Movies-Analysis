@@ -3,6 +3,10 @@
 
 This Power BI dashboard provides an in-depth analysis of movies available on Netflix, offering insights into various aspects such as genre distribution, release trends, movie popularity, and ratings.
 
+![Screenshot 2024-11-01 105115](https://github.com/user-attachments/assets/1c95da6d-f48b-4e96-94c8-17747e32b625)
+
+
+
 ## Dashboard Features
 
 ### 1. **Genre Distribution**
